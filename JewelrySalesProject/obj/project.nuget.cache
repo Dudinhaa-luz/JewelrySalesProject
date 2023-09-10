@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gsqHXksQzkPEN+UQnTW5fy0sJ8cLsRUcq7fLPk52Y+b8tQ7X2uog2RHqVi+VWo3pWu7CT77xxWaZ2/7ay9l6Tw==",
+  "dgSpecHash": "TX3Ll+wWij/Te73BNyy0n4DsLroiPB6ISgosL1jY4gxmKbHtExPiw77tivTNnoWYZw3TcYa15W4//W+7DPLHuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria.luz\\OneDrive - NDD.Tech\\Pessoal\\Projetos\\JewelrySalesProject\\JewelrySalesProject\\JewelrySalesProject.csproj",
+  "projectFilePath": "C:\\Users\\maria.luz\\source\\repos\\JewelrySalesProject\\JewelrySalesProject\\JewelrySalesProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria.luz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\maria.luz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

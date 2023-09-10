@@ -3503,11 +3503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria.luz\\OneDrive - NDD.Tech\\Pessoal\\Projetos\\JewelrySalesProject\\JewelrySalesProject\\JewelrySalesProject.csproj",
+      "projectUniqueName": "C:\\Users\\maria.luz\\source\\repos\\JewelrySalesProject\\JewelrySalesProject\\JewelrySalesProject.csproj",
       "projectName": "JewelrySalesProject",
-      "projectPath": "C:\\Users\\maria.luz\\OneDrive - NDD.Tech\\Pessoal\\Projetos\\JewelrySalesProject\\JewelrySalesProject\\JewelrySalesProject.csproj",
+      "projectPath": "C:\\Users\\maria.luz\\source\\repos\\JewelrySalesProject\\JewelrySalesProject\\JewelrySalesProject.csproj",
       "packagesPath": "C:\\Users\\maria.luz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria.luz\\OneDrive - NDD.Tech\\Pessoal\\Projetos\\JewelrySalesProject\\JewelrySalesProject\\obj\\",
+      "outputPath": "C:\\Users\\maria.luz\\source\\repos\\JewelrySalesProject\\JewelrySalesProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
