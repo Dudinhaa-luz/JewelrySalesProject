@@ -1,4 +1,6 @@
-﻿namespace JewelrySalesProject.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace JewelrySalesProject.Models.Entities
 {
     public class Client
     {
@@ -8,6 +10,7 @@
             CellPhone = cellPhone;
         }
 
+        [Key]
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string CellPhone { get; set; }

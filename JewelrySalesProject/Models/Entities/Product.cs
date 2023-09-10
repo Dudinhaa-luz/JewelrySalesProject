@@ -1,6 +1,7 @@
 ﻿using JewelrySalesProject.Models.Enums;
+using System.ComponentModel.DataAnnotations;
 
-namespace JewelrySalesProject.Models
+namespace JewelrySalesProject.Models.Entities
 {
     public class Product
     {
@@ -10,6 +11,7 @@ namespace JewelrySalesProject.Models
             Description = description;
         }
 
+        [Key]
         public Guid Id { get; set; }
         public string Code { get; set; }
         public string Description { get; set; }

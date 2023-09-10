@@ -1,4 +1,4 @@
-﻿using JewelrySalesProject.Models;
+﻿using JewelrySalesProject.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace JewelrySalesProject.Data

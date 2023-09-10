@@ -4,6 +4,7 @@ using JewelrySalesProject.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JewelrySalesProject.Migrations
 {
     [DbContext(typeof(JewelrySalesContext))]
-    partial class JewelrySalesContextModelSnapshot : ModelSnapshot
+    [Migration("20230910173612_adjustmentInitialEntities")]
+    partial class adjustmentInitialEntities
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
